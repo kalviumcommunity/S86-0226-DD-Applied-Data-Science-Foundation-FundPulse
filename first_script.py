@@ -12,6 +12,7 @@ Run it from the terminal with `python first_script.py` or via the editor's run b
 
 
 def main():
+    #hi there! This is a simple script to demonstrate basic Python programming concepts.
     # sample dataset: simple list of numbers
     sample_data = [5, 10, 15, 20, 25]
 
